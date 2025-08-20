@@ -14,5 +14,5 @@
   •
   <a href="#installation">Installation</a>
   •
-  <a href="#license">License</a>
+  <a href="https://github.com/luh-99/Discord-Image-Converter/blob/a07e97f85b2b313945aa1279f885f6dc226c0b52/LICENSE">License</a>
 </p>
